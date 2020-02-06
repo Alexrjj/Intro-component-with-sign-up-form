@@ -91,6 +91,17 @@
   font-weight: 700;
 }
 
+.attribution {
+  color: azure;
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+.attribution a {
+  color: #6055a5;
+  font-weight: 600;
+}
+
 @media (max-width: 992px) {
   .body {
     background: url("../images/bg-intro-mobile.png") fixed no-repeat #ff7a7a;
