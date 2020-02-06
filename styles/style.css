@@ -114,7 +114,6 @@
   .container {
     margin: 0;
     padding: 0;
-    width: 70%;
   }
 
   .left-column {
@@ -124,11 +123,11 @@
   .left-column h1 {
     text-align: center;
     font-size: 2rem;
-    margin: 2rem 4rem 1rem 4rem;
+    margin: 2rem 0rem 1rem 0rem;
   }
   .left-column p {
     text-align: center;
-    margin: 1rem 4rem 3rem 4rem;
+    margin: 1rem 0rem 3rem 0rem;
   }
 
   .right-column {
@@ -136,12 +135,12 @@
     padding: 0;
   }
   .right-column .price {
-    padding: 1.5rem 4rem 1.5rem 4rem;
-    margin: 0 5rem 0 5rem;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+    margin: 0 3rem 0 3rem;
   }
 
   .form {
-    margin: 1.5rem 5rem 2rem 5rem;
+    margin: 1.5rem 3rem 2rem 3rem;
   }
 }
 
