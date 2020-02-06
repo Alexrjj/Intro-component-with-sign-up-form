@@ -1,3 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+.body {
+  background: url("../images/bg-intro-desktop.png") fixed no-repeat #ff7a7a;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+}
 
 /*# sourceMappingURL=style.css.map */
