@@ -102,6 +102,10 @@
   font-weight: 600;
 }
 
+.invalid-feedback {
+  text-align: right;
+}
+
 @media (max-width: 992px) {
   .body {
     background: url("../images/bg-intro-mobile.png") fixed no-repeat #ff7a7a;
