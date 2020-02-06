@@ -26,6 +26,7 @@
 }
 
 .price {
+  border-radius: 0.6rem;
   background-color: #6055a5;
   padding: 1rem;
   text-align: center;
@@ -41,6 +42,7 @@
 }
 
 .form {
+  border-radius: 0.6rem;
   margin: 1.5rem 2rem;
   background-color: #fff;
   padding: 2rem 2rem 2rem 2rem;
